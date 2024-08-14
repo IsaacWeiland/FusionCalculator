@@ -1,0 +1,14 @@
+C:\Users\0ni\Desktop\repos\FustionCalcTest\FustionCalcTest\obj\Debug\net7.0\FustionCalcTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0ni\Desktop\repos\FustionCalcTest\FustionCalcTest\obj\Debug\net7.0\FustionCalcTest.AssemblyInfoInputs.cache
+C:\Users\0ni\Desktop\repos\FustionCalcTest\FustionCalcTest\obj\Debug\net7.0\FustionCalcTest.AssemblyInfo.cs
+C:\Users\0ni\Desktop\repos\FustionCalcTest\FustionCalcTest\obj\Debug\net7.0\FustionCalcTest.csproj.CoreCompileInputs.cache
+C:\Users\0ni\Desktop\repos\FustionCalcTest\FustionCalcTest\bin\Debug\net7.0\FustionCalcTest.exe
+C:\Users\0ni\Desktop\repos\FustionCalcTest\FustionCalcTest\bin\Debug\net7.0\FustionCalcTest.deps.json
+C:\Users\0ni\Desktop\repos\FustionCalcTest\FustionCalcTest\bin\Debug\net7.0\FustionCalcTest.runtimeconfig.json
+C:\Users\0ni\Desktop\repos\FustionCalcTest\FustionCalcTest\bin\Debug\net7.0\FustionCalcTest.dll
+C:\Users\0ni\Desktop\repos\FustionCalcTest\FustionCalcTest\bin\Debug\net7.0\FustionCalcTest.pdb
+C:\Users\0ni\Desktop\repos\FustionCalcTest\FustionCalcTest\obj\Debug\net7.0\FustionCalcTest.dll
+C:\Users\0ni\Desktop\repos\FustionCalcTest\FustionCalcTest\obj\Debug\net7.0\refint\FustionCalcTest.dll
+C:\Users\0ni\Desktop\repos\FustionCalcTest\FustionCalcTest\obj\Debug\net7.0\FustionCalcTest.pdb
+C:\Users\0ni\Desktop\repos\FustionCalcTest\FustionCalcTest\obj\Debug\net7.0\FustionCalcTest.genruntimeconfig.cache
+C:\Users\0ni\Desktop\repos\FustionCalcTest\FustionCalcTest\obj\Debug\net7.0\ref\FustionCalcTest.dll
